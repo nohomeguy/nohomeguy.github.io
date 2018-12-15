@@ -8,7 +8,7 @@ My name is Wenjing Ying, and I am a sophomore of Computer Science major. I have 
 
 ### Projects of CS3041
 
-In this course, I have created 5 design projects with several groups of four. [Here](https://medium.com/@wjyingcherry/design-manifesto-7871d8381bcd) is a course report of my understanding of the course for your interest. 
+In this course, I have created 5 design projects with several groups of four. [Here](https://medium.com/@wjyingcherry/design-manifesto-7871d8381bcd) is a course report of my understanding of the course for your interest. [Design Manifesto](https://medium.com/@wjyingcherry/design-manifesto-7871d8381bcd)
 
 Below are the 5 designs from this course: 
 - [Design for Others: learning to get feedback from real users](https://medium.com/@kendog95/design-for-others-df0d936dbd40).
