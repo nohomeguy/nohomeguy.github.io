@@ -1,19 +1,19 @@
-#  HELLO
 ## 18B CS3041 Human-Computer Interaction Portfolio
 
-This page is a showcase for my Human-Computer Interaction Por
+This page is a showcase for my designs from the Human-Computer Interaction course (CS3041) of Worcester Polytechnic Institute. This course is aimed to help computer scientists see the importance of the other side of engineering: design. We explored 5 different topics of design and deeply studied the user experiences of these different projects. I had a breakthrough understanding of the behavior that computers should encourage or constrain. 
 
 ### About Me
 
+My name is Wenjing Ying, and I am a sophomore of Computer Science major. I have had intern experience of paralle programming on supercomputer. I am familiar with Java, C/C++, Fortran and Javascript. 
 
+### Projects of CS3041
 
-### My Works
+In this course, I have created 5 design projects with several groups of four. [Here](https://medium.com/@wjyingcherry/design-manifesto-7871d8381bcd) is a course report of my understanding of the course for your interest. 
 
-Below are some samples of my work for this course. If you're interested, you can read more about my design process [here](https://medium.com/@wjyingcherry/design-manifesto-7871d8381bcd).
+Below are the 5 designs from this course: 
+- [Design for Others: learning to get feedback from real users](https://medium.com/@kendog95/design-for-others-df0d936dbd40).
 
-- [Tailoring the design of an existing website for a specific user and use-case](https://medium.com/@kendog95/design-for-others-df0d936dbd40).
-
-We re-designed the the Technocopia mobile website to better function for a hyper-specific demographinc: skilled laborers, aged 25 to 50, who wanted to learn more about digital fabrication techniques. We placed a big focus on ease-of-use and organization of information - and completely overhauled the navigational menu and content of several pages to do so.
+In this project, our group re-designed the [Technocopia website](http://technocopia.org/) for K-12 teachers to book workshops for their classes. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
 - [Finding different ways to display visual information in order to influence user understanding](https://medium.com/@wjyingcherry/designing-for-understanding-f8e06e7a5d62).
 
