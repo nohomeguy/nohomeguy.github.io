@@ -15,22 +15,22 @@ Below are the 5 designs from this course:
 
 In this project, our group re-designed the [Technocopia website](http://technocopia.org/) for K-12 teachers to book workshops for their classes. The goal of redesigning the page was to target a demographic that would capture the eyes of teachers into motivating them to be apart of the Technocopia makerspace community in Worcester.
 
-- [Finding different ways to display visual information in order to influence user understanding](https://medium.com/@wjyingcherry/designing-for-understanding-f8e06e7a5d62).
+- [Design for Understanding: Use different visual methods to communicate data](https://medium.com/@wjyingcherry/designing-for-understanding-f8e06e7a5d62).
 
-We worked with the [CORGIS Database "Billionaires" dataset](https://think.cs.vt.edu/corgis/json/billionaires/billionaires.html) to display data about the world's richest individuals through several different lenses. One displayed the data in a straightforward manner, but the other was intended to persuade users into finding a set of "commonalities" between the billionaires.
+In this project, our group chose the [CORGIS Database "Billionaires" dataset](https://think.cs.vt.edu/corgis/json/billionaires/billionaires.html) Which contains the data for worldwide billionaires. Our group presented the data of 2000 billionaires around the world in four direct charts and one interactive presentation tap to show the relationship between wealth and age, region they live, their source of wealth and the how their wealth.
 
-- [Building a chatbot to navigate the discussion of a tense topic](https://medium.com/@wjyingcherry/design-for-tension-eb9e2f65504b).
+- [Design for Tension: Create something that forces people to reflect](https://medium.com/@wjyingcherry/design-for-tension-eb9e2f65504b).
 
-We built a chatbot that attempts to convince users to become pro-nuclear energy in their community. Using a series of persuasive facts and logical reasoning, it attempts to address any concerns about nuclear energy that the user might have. If the user already supports nuclear energy, it provides resources to help the user spread the word about its benefits.
+In this project, we designed a chat bot using FlowXO for the user to think about a topic that is relatively serious. Specifically, we made a bot that can talk to the user that discuss gun control policies. The intentional goal isn’t to solve your problem, but to try and tackle one small component of it.
 
-- [Designing a webapp that attempt to improve a user’s life by reading their emotions/actions](https://medium.com/@wjyingcherry/design-for-wellbeing-9b33e33d67e6).
+- [Design for Wellbeing: Design a website that responds to user emotion](https://medium.com/@wjyingcherry/design-for-wellbeing-9b33e33d67e6).
 
-We built an app that can detect whether if a user is falling asleep while working at their computer. When they do, the app gently wakes them up and suggests a healthy activity to get them away from the screen for a bit - like taking a nap or getting some water to drink.
+In this project, we designed a webapp with the purpose of making the computer more considerable when it interacts with the users. Out group used the Affectiva libraries and designed a website that responds to user emotion, with the end goal of promoting wellbeing. Specifically, we recommend an ideal meal for the user based on their changes in emotion.
 
-- [Creating a VR interface that gives users a new perspective on technology](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e).
+- [Design for Another World: Exploring virtual reality that provides Immersion experience for another world](https://medium.com/@gyang2518/design-documentation-for-another-world-1d903c1efd4e).
 
-We built a VR world that helps users explore poetry. This prototype uses Robert Frost's "Stopping By Woods on a Snowy Evening" as an example: the user is surrounded by images reflecting the content of the poem. Part-by-part, the narrator reads the poem to the user, changing the imagery to best fit the content of the poem.
+In this project, we built a VR farm that has some little interaction with the user. This "Creepy Farm" we created has a lot of creepy factors and it is really exciting to be played with. 
 
 ### Contact Me
 
-If you have any questions or comments, feel free to reach out to me at [wying@wpi.edu](wying@wpi.edu). You can also find me on LinkedIn!
+Email: [wying@wpi.edu](wying@wpi.edu). 
