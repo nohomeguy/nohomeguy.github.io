@@ -1,6 +1,6 @@
 ## 18B CS3041 Human-Computer Interaction Portfolio
 
-
+This page is a showcase for my Human-Computer Interaction Por
 
 ### About Me
 
@@ -10,7 +10,7 @@
 
 Below are some samples of my work for this course. If you're interested, you can read more about my design process [here](https://medium.com/@wjyingcherry/design-manifesto-7871d8381bcd).
 
-- [Tailoring the design of an existing website for a specific user and use-case](https://medium.com/@wjyingcherry/designing-for-understanding-f8e06e7a5d62).
+- [Tailoring the design of an existing website for a specific user and use-case](https://medium.com/@kendog95/design-for-others-df0d936dbd40).
 
 We re-designed the the Technocopia mobile website to better function for a hyper-specific demographinc: skilled laborers, aged 25 to 50, who wanted to learn more about digital fabrication techniques. We placed a big focus on ease-of-use and organization of information - and completely overhauled the navigational menu and content of several pages to do so.
 
@@ -32,4 +32,4 @@ We built a VR world that helps users explore poetry. This prototype uses Robert 
 
 ### Contact Me
 
-If you have any questions or comments, feel free to reach out to me at [wying@wpi.edu](mailto:wying@wpi.edu). You can also find me on LinkedIn!
+If you have any questions or comments, feel free to reach out to me at [wying@wpi.edu](wying@wpi.edu). You can also find me on LinkedIn!
